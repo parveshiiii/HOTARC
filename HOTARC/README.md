@@ -94,4 +94,4 @@ Scrapes real-time data from AI research sources, integrates with external system
 
 ### 19. `M1.py`
 Loads the existing model, initializes the HOTARC framework, and executes the core directives and principles to achieve the mission of superintelligence. Fully integrates and activates the entire HOTARC framework, transforming the loaded AI model into a self-evolving, autonomous AGI system.
-HOTARC(Higher Order Thinking And Reasoning Core) © 2025 by Parvesh Rawal is licensed under CC BY-NC-ND 4.0 
+HOTARC(Higher Order Thinking And Reasoning Core) © 2025 by Parvesh Rawal is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
